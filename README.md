@@ -18,3 +18,8 @@ From June 04,2019 to July 30,2019, I had the privilege of doing internship at De
 5. **Technical skill (Making a redundant network):** <br/> One thing, I found interesting which I can also implement in my project too is to make it redundant. In Delhi Metro, both power lines (which carry power to Metro trains) and Signal Lines (which carry data from every metro like each train location or data from sensors to monitoring station) have a redundant line/ secondary line which is there in case, the primary line fails, the network then can be shifted to secondary line and won't cause any disturbance to schedule of metro trains. Later fault in primary line can be resolved during non working hours and again network can be shifted back to primary lines.
 
 ## Conclusion
+
+This internship has been an excellent and rewarding experience. I can conclude that there have been a lot I’ve learnt from my internship at Delhi Metro Rail Corportaion. Needless to say, there is lot that I was not able to know and explore but with given time period of 2 months, it was great to learn between the engineers with vast knowledge of their respective fields in an Industrial Environment.
+
+## Future Work
+One problem that I witness was that the maintenance work of checking train tracks was done manually which was a time taking process. This problem can be solved using machine learning, in which one can input the live feed of train tracks through camera and the pre-trained model will be able detect any fault there in the tracks. With this model, the time taken to check and maintain train tracks can be drastically decreased.
