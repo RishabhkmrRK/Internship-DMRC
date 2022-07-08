@@ -1,8 +1,11 @@
 # Internship-DMRC
 
-dmrc internship
+From june 04,2019 to july 30,2019, I had the privilege of doing internship at Delhi Metro Rail Coorporation (DMRC), New Delhi. The goal of this internship was to learn different technical and management aspects of how Delhi metro works and maintains the whole network which now becomes the backbone of Delhi transport system. Over the course of internship, There were three departments of Delhi metro in which I had given opportunity to explore and work, that were OHE (Over-Head Equipment), PSI (Power Station Installation) and Scada (senosors/ train monitoring station). Here are documents and skills that I acquired from this internship:
 
-What I learned from dmrc internship:
+1. [Internship Report](https://github.com/RishabhkmrRK/Internship-DMRC/blob/main/Internship%20Report.pdf)
+2. [Internship Completion Certificate](https://github.com/RishabhkmrRK/Internship-DMRC/blob/main/Internship%20Completion%20Certificate.pdf)
+
+Skills acquired from DMRC internship:
 
 1. **Management:** <br/> One of the main key of running Delhi metro on time is management. Delhi metro has an average daily ridership of around 50 Lakhs (5 million), so considering all aspects like train maintenance,  power interruption, track maintenance, it is a big task. I got to learn how these things take place, these all maintenance work has to take place at night in short span of 5-6 hour window. More than 300 KM track is checked every night and any fault in train coaches also has to be taken care of.
  
