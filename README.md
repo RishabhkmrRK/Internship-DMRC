@@ -1,6 +1,5 @@
-# Internship-DMRC
-
-From june 04,2019 to july 30,2019, I had the privilege of doing internship at Delhi Metro Rail Coorporation (DMRC), New Delhi. The goal of this internship was to learn different technical and management aspects of how Delhi metro works and maintains the whole network which now becomes the backbone of Delhi transport system. Over the course of internship, There were three departments of Delhi metro in which I had given opportunity to explore and work, that were OHE (Over-Head Equipment), PSI (Power Station Installation) and Scada (senosors/ train monitoring station). Here are documents and skills that I acquired from this internship:
+# DELHI METRO RAIL CORPORATION INTERNSHIP
+From June 04,2019 to July 30,2019, I had the privilege of doing internship at Delhi Metro Rail Coorporation (DMRC), New Delhi. The goal of this internship was to learn different technical and management aspects of how Delhi metro works and maintains the whole network which now became the backbone of Delhi transport system. Over the course of internship, there were three departments of Delhi metro in which I had given opportunity to explore and work, that were OHE (Over-Head Equipment), PSI (Power Station Installation) and Scada (senosors/ train monitoring station). Here are documents and skills that I acquired from this internship:
 
 1. [Internship Report](https://github.com/RishabhkmrRK/Internship-DMRC/blob/main/Internship%20Report.pdf)
 2. [Internship Completion Certificate](https://github.com/RishabhkmrRK/Internship-DMRC/blob/main/Internship%20Completion%20Certificate.pdf)
