@@ -1,10 +1,11 @@
 # DELHI METRO RAIL CORPORATION INTERNSHIP
+## Overview
 From June 04,2019 to July 30,2019, I had the privilege of doing internship at Delhi Metro Rail Coorporation (DMRC), New Delhi. The goal of this internship was to learn different technical and management aspects of how Delhi metro works and maintains the whole network which now became the backbone of Delhi transport system. Over the course of internship, there were three departments of Delhi metro in which I had given opportunity to explore and work, that were OHE (Over-Head Equipment), PSI (Power Station Installation) and Scada (senosors/ train monitoring station). Here are documents and skills that I acquired from this internship:
 
 1. [Internship Report](https://github.com/RishabhkmrRK/Internship-DMRC/blob/main/Internship%20Report.pdf)
 2. [Internship Completion Certificate](https://github.com/RishabhkmrRK/Internship-DMRC/blob/main/Internship%20Completion%20Certificate.pdf)
 
-Skills acquired from DMRC internship:
+## Skills acquired from DMRC internship:
 
 1. **Management:** <br/> One of the main key of running Delhi metro on time is management. Delhi metro has an average daily ridership of around 50 Lakhs (5 million), so considering all aspects like train maintenance,  power interruption, track maintenance, it is a big task. I got to learn how these things take place, these all maintenance work has to take place at night in short span of 5-6 hour window. More than 300 KM track is checked every night and any fault in train coaches also has to be taken care of.
  
@@ -15,3 +16,5 @@ Skills acquired from DMRC internship:
  4. **Team Work:** <br/> In second part of internship, I was stationed at PSI (Power Supply Installation, this is where metro line gets its power, 25kv) at Kashmiri Gate which is one of the three power stations on red-line. The station had to be in constant communication with main control unit which monitors every train on track during working hours.  Any problem has to be taken care of immediately, although DMRC has a very redundant and robust network but it puts the load on other power stations.
 
 5. **Technical skill (Making a redundant network):** <br/> One thing, I found interesting which I can also implement in my project too is to make it redundant. In Delhi Metro, both power lines (which carry power to Metro trains) and Signal Lines (which carry data from every metro like each train location or data from sensors to monitoring station) have a redundant line/ secondary line which is there in case, the primary line fails, the network then can be shifted to secondary line and won't cause any disturbance to schedule of metro trains. Later fault in primary line can be resolved during non working hours and again network can be shifted back to primary lines.
+
+## Conclusion
